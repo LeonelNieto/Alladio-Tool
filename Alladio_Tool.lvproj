@@ -13,10 +13,8 @@
 		<Item Name="Alladio Tool.vi" Type="VI" URL="../Alladio Tool.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
-				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
@@ -42,9 +40,6 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
-				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
-				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
-				<Item Name="nisyscfg.lvlib" Type="Library" URL="/&lt;vilib&gt;/nisyscfg/nisyscfg.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
@@ -70,12 +65,8 @@
 			<Item Name="BootloaderVersion.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/BootloaderVersion.ctl"/>
 			<Item Name="Build_ERD_Header_String_Array.vi" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/sub vis/Build_ERD_Header_String_Array.vi"/>
 			<Item Name="Build_Header_ARG.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Build_Header_ARG.vi"/>
-			<Item Name="Cal Value Global.vi" Type="VI" URL="../../../Automation/Product Specific/Clothes Care/Justice League/Product Testcode/Common/Cal Value Global.vi"/>
 			<Item Name="Choose_ERD_List.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/Choose_ERD_List.ctl"/>
-			<Item Name="Config_Report.vi" Type="VI" URL="../../../Common/Config/Config_Report.vi"/>
 			<Item Name="Cont_Send_States.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/Cont_Send_States.ctl"/>
-			<Item Name="Control_Cont_Send.vi" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/sub vis/Control_Cont_Send.vi"/>
-			<Item Name="Control_DAQ_Loop.vi" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/sub vis/Control_DAQ_Loop.vi"/>
 			<Item Name="Control_ERD_Loop.vi" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/sub vis/Control_ERD_Loop.vi"/>
 			<Item Name="Control_GEA2_Loop.vi" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/sub vis/Control_GEA2_Loop.vi"/>
 			<Item Name="Convert Hex String to Array.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Convert Hex String to Array.vi"/>
@@ -84,15 +75,12 @@
 			<Item Name="Convert_ERDs_ARG.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Convert_ERDs_ARG.vi"/>
 			<Item Name="Convert_ERDs_Version_ARG.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Convert_ERDs_Version_ARG.vi"/>
 			<Item Name="CSV_File_String_Arrays.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/CSV_File_String_Arrays.ctl"/>
-			<Item Name="DAQ_Control_Command.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/DAQ_Control_Command.ctl"/>
-			<Item Name="DAQ_States.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/DAQ_States.ctl"/>
 			<Item Name="Data In.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/Data In.ctl"/>
 			<Item Name="Data In.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/type defs/Data In.ctl"/>
 			<Item Name="Data Out.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/Data Out.ctl"/>
 			<Item Name="Data Out.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/type defs/Data Out.ctl"/>
 			<Item Name="Data Type.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/Data Type.ctl"/>
 			<Item Name="Data_In_Automation_Bootloader.ctl" Type="VI" URL="../Alladio Tool Suport/Type defs/Data_In_Automation_Bootloader.ctl"/>
-			<Item Name="DeviceListCheck.vi" Type="VI" URL="../../../Common/DAQmx/DeviceListCheck.vi"/>
 			<Item Name="Encoding.dll" Type="Document" URL="../../../Common/LabVIEW GEA2 Toolkit/source/GEA3 DLL Source/Encoding.dll"/>
 			<Item Name="ERD Read Data Out.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/ERD Read Data Out.ctl"/>
 			<Item Name="ERD Read List All_RT.ctl" Type="VI" URL="../../Refrigerator Tool (LightHouse)/Refrigerator Tool Support/Controls/ERD Read List All_RT.ctl"/>
@@ -137,17 +125,11 @@
 			<Item Name="HEUI_Running_FGV.vi" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/sub vis/HEUI_Running_FGV.vi"/>
 			<Item Name="HexString to AsciiString.vi" Type="VI" URL="../../../Common/GEA2 Message Conversion/HexString to AsciiString.vi"/>
 			<Item Name="Initialize_Control_JL.vi" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/sub vis/Initialize_Control_JL.vi"/>
-			<Item Name="Is SLB FG.vi" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/sub vis/Is SLB FG.vi"/>
-			<Item Name="JLConfig Parse.vi" Type="VI" URL="../../../Automation2/Product Specific/Clothes Care/Justice League/Product Testcode/Config/JLConfig Parse.vi"/>
-			<Item Name="JLConfig.ctl" Type="VI" URL="../../../Automation2/Product Specific/Clothes Care/Justice League/Product Testcode/Config/type defs/JLConfig.ctl"/>
 			<Item Name="Json_Data_Path_Argentina.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/Json_Data_Path_Argentina.vi"/>
 			<Item Name="Length_Message_Boatloader.vi" Type="VI" URL="../../../Common/Length_Message_Boatloader.vi"/>
 			<Item Name="Message to Byte Array.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Message to Byte Array.vi"/>
 			<Item Name="Message Type Conversion.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Message Type Conversion.vi"/>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Open_Create__Log_File.vi" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/sub vis/Open_Create__Log_File.vi"/>
@@ -159,14 +141,11 @@
 			<Item Name="Programming.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/Programming.ctl"/>
 			<Item Name="Programming.dll" Type="Document" URL="../../../Common/LabVIEW GEA2 Toolkit/source/GEA3 DLL Source/Programming.dll"/>
 			<Item Name="Remove_Spaces.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Remove_Spaces.vi"/>
-			<Item Name="Rename DAQ Devices.vi" Type="VI" URL="../../../Automation/Product Specific/Clothes Care/Justice League/Product Testcode/DAQ/Rename DAQ Devices.vi"/>
 			<Item Name="Save_Automation_Test.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Save_Automation_Test.vi"/>
 			<Item Name="Search_ERD_JSON.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/Search_ERD_JSON.vi"/>
 			<Item Name="Search_From_Json.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/Search_From_Json.vi"/>
-			<Item Name="Select DAQ Group.ctl" Type="VI" URL="../../../Automation/Product Specific/Clothes Care/Justice League/Product Testcode/DAQ/TypeDefs/Select DAQ Group.ctl"/>
 			<Item Name="Select_List.vi" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/sub vis/Select_List.vi"/>
 			<Item Name="Separate_Bits.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/Separate_Bits.vi"/>
-			<Item Name="Set Get Model.vi" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/sub vis/Set Get Model.vi"/>
 			<Item Name="Source_Destination.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/Source_Destination.ctl"/>
 			<Item Name="Source_Destination.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/type defs/Source_Destination.ctl"/>
 			<Item Name="String Remove All Spaces.vi" Type="VI" URL="../../../Common/String Manipulation/String Remove All Spaces.vi"/>
