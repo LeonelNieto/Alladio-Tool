@@ -1,7 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="21008000">
 	<Item Name="My Computer" Type="My Computer">
-		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -12,26 +11,6 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Alladio Tool.vi" Type="VI" URL="../Alladio Tool.vi"/>
-		<Item Name="Build_ERD_Header_String_Array.vi" Type="VI" URL="../../../Common/sub vis/Build_ERD_Header_String_Array.vi"/>
-		<Item Name="Write_Header_FGV.vi" Type="VI" URL="../../../Common/sub vis/Write_Header_FGV.vi"/>
-		<Item Name="ERD_Read_List_Builder.vi" Type="VI" URL="../../../Common/sub vis/ERD_Read_List_Builder.vi"/>
-		<Item Name="Write _To_CSV_File.vi" Type="VI" URL="../../../Common/sub vis/Write _To_CSV_File.vi"/>
-		<Item Name="TimeStamp to String Array.vi" Type="VI" URL="../../../Common/sub vis/TimeStamp to String Array.vi"/>
-		<Item Name="Faults_To_String_Array.vi" Type="VI" URL="../../../Common/sub vis/Faults_To_String_Array.vi"/>
-		<Item Name="Write _To_TXT_File.vi" Type="VI" URL="../../../Common/sub vis/Write _To_TXT_File.vi"/>
-		<Item Name="Error_Control.vi" Type="VI" URL="../../../Common/sub vis/Error_Control.vi"/>
-		<Item Name="Error_Clearing.vi" Type="VI" URL="../../../Common/sub vis/Error_Clearing.vi"/>
-		<Item Name="FGV_GEA2_Ref.vi" Type="VI" URL="../../../Common/sub vis/FGV_GEA2_Ref.vi"/>
-		<Item Name="Get NEW FI Set Max.vi" Type="VI" URL="../../../Common/sub vis/Get NEW FI Set Max.vi"/>
-		<Item Name="Control_ERD_Loop.vi" Type="VI" URL="../../../Common/sub vis/Control_ERD_Loop.vi"/>
-		<Item Name="Control_GEA2_Loop.vi" Type="VI" URL="../../../Common/sub vis/Control_GEA2_Loop.vi"/>
-		<Item Name="Wifi_Data.vi" Type="VI" URL="../../../Common/sub vis/Wifi_Data.vi"/>
-		<Item Name="HEUI_Event_FGV.vi" Type="VI" URL="../../../Common/sub vis/HEUI_Event_FGV.vi"/>
-		<Item Name="Open_Create__Log_File.vi" Type="VI" URL="../../../Common/sub vis/Open_Create__Log_File.vi"/>
-		<Item Name="Get User Filename and Path.vi" Type="VI" URL="../../../Common/sub vis/Get User Filename and Path.vi"/>
-		<Item Name="VersionConversionData.vi" Type="VI" URL="../../../Common/sub vis/VersionConversionData.vi"/>
-		<Item Name="UI Loop Error and Que Setup.vi" Type="VI" URL="../../../Common/sub vis/UI Loop Error and Que Setup.vi"/>
-		<Item Name="Initialize_Control_JL.vi" Type="VI" URL="../../../Common/sub vis/Initialize_Control_JL.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -84,8 +63,11 @@
 			<Item Name="AT_Sequence_T364.ctl" Type="VI" URL="../Alladio Tool Suport/Automation Erds/Secuences ERDS/AT_Sequence_T364.ctl"/>
 			<Item Name="AT_Sequennce_Select.ctl" Type="VI" URL="../Alladio Tool Suport/Automation Erds/AT_Sequennce_Select.ctl"/>
 			<Item Name="BootloaderVersion.ctl" Type="VI" URL="../../../Common/type defs/BootloaderVersion.ctl"/>
+			<Item Name="Build_ERD_Header_String_Array.vi" Type="VI" URL="../../../Common/sub vis/Build_ERD_Header_String_Array.vi"/>
 			<Item Name="Build_Header_ARG.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Build_Header_ARG.vi"/>
 			<Item Name="Cont_Send_States.ctl" Type="VI" URL="../../../Common/type defs/Cont_Send_States.ctl"/>
+			<Item Name="Control_ERD_Loop.vi" Type="VI" URL="../../../Common/sub vis/Control_ERD_Loop.vi"/>
+			<Item Name="Control_GEA2_Loop.vi" Type="VI" URL="../../../Common/sub vis/Control_GEA2_Loop.vi"/>
 			<Item Name="Convert Hex String to Array.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Convert Hex String to Array.vi"/>
 			<Item Name="Convert Read ERD List to Message.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Convert Read ERD List to Message.vi"/>
 			<Item Name="Convert Write ERD List to Message.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Convert Write ERD List to Message.vi"/>
@@ -100,14 +82,21 @@
 			<Item Name="Data_In_Automation_Bootloader.ctl" Type="VI" URL="../Alladio Tool Suport/Type defs/Data_In_Automation_Bootloader.ctl"/>
 			<Item Name="Encoding.dll" Type="Document" URL="../../../Common/LabVIEW GEA2 Toolkit/source/GEA3 DLL Source/Encoding.dll"/>
 			<Item Name="ERD Read Data Out.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/ERD Read Data Out.ctl"/>
+			<Item Name="ERD Read List All.ctl" Type="VI" URL="../../../Common/type defs/ERD Read List All.ctl"/>
 			<Item Name="ERD Write Data In.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/ERD Write Data In.ctl"/>
 			<Item Name="ERD_Always_Show_ARG.ctl" Type="VI" URL="../Alladio Tool Suport/Type defs/ERD_Always_Show_ARG.ctl"/>
 			<Item Name="ERD_Data_Loop_Control.ctl" Type="VI" URL="../../../Common/type defs/ERD_Data_Loop_Control.ctl"/>
 			<Item Name="ERD_Loop_Control_Command.ctl" Type="VI" URL="../../../Common/type defs/ERD_Loop_Control_Command.ctl"/>
+			<Item Name="ERD_Loop_States.ctl" Type="VI" URL="../../../Common/type defs/ERD_Loop_States.ctl"/>
+			<Item Name="ERD_Read_List_Builder.vi" Type="VI" URL="../../../Common/sub vis/ERD_Read_List_Builder.vi"/>
 			<Item Name="ERDList.ctl" Type="VI" URL="../../../Common/type defs/ERDList.ctl"/>
+			<Item Name="Error_Clearing.vi" Type="VI" URL="../../../Common/sub vis/Error_Clearing.vi"/>
 			<Item Name="Error_Command.ctl" Type="VI" URL="../../../Common/type defs/Error_Command.ctl"/>
+			<Item Name="Error_Control.vi" Type="VI" URL="../../../Common/sub vis/Error_Control.vi"/>
 			<Item Name="Fault Table Array.ctl" Type="VI" URL="../../../Common/type defs/Fault Table Array.ctl"/>
 			<Item Name="Fault_Table_Info.ctl" Type="VI" URL="../../../Common/type defs/Fault_Table_Info.ctl"/>
+			<Item Name="Faults_To_String_Array.vi" Type="VI" URL="../../../Common/sub vis/Faults_To_String_Array.vi"/>
+			<Item Name="FGV_GEA2_Ref.vi" Type="VI" URL="../../../Common/sub vis/FGV_GEA2_Ref.vi"/>
 			<Item Name="FileIO_GetCurrentDateTimeString.vi" Type="VI" URL="../../../Common/File IO/FileIO_GetCurrentDateTimeString.vi"/>
 			<Item Name="Flash_Results.ctl" Type="VI" URL="../../../Common/type defs/Flash_Results.ctl"/>
 			<Item Name="Format Message New to Old.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Format Message New to Old.vi"/>
@@ -127,8 +116,14 @@
 			<Item Name="GEA2_Toolkit.lvlib" Type="Library" URL="../../../Common/LabVIEW GEA2 Toolkit/library/GEA2_Toolkit.lvlib"/>
 			<Item Name="GEA2MessageFormatter.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/GEA2MessageFormatter.vi"/>
 			<Item Name="GeaCommunication.dll" Type="Document" URL="../../../Common/LabVIEW GEA2 Toolkit/source/GEA3 DLL Source/GeaCommunication.dll"/>
+			<Item Name="Get NEW FI Set Max.vi" Type="VI" URL="../../../Common/sub vis/Get NEW FI Set Max.vi"/>
+			<Item Name="Get User Filename and Path.vi" Type="VI" URL="../../../Common/sub vis/Get User Filename and Path.vi"/>
 			<Item Name="GExplorer_Data_Cluster.ctl" Type="VI" URL="../../../Common/GExplorer Support/typedefs/GExplorer_Data_Cluster.ctl"/>
 			<Item Name="GExplorer_Queue_GEA2.vi" Type="VI" URL="../../../Common/GExplorer Support/subVIs/GExplorer_Queue_GEA2.vi"/>
+			<Item Name="HEUI_Event_FGV.vi" Type="VI" URL="../../../Common/sub vis/HEUI_Event_FGV.vi"/>
+			<Item Name="HEUI_Running_FGV.vi" Type="VI" URL="../../../Common/sub vis/HEUI_Running_FGV.vi"/>
+			<Item Name="HexString to AsciiString.vi" Type="VI" URL="../../../Common/GEA2 Message Conversion/HexString to AsciiString.vi"/>
+			<Item Name="Initialize_Control_JL.vi" Type="VI" URL="../../../Common/sub vis/Initialize_Control_JL.vi"/>
 			<Item Name="Json_Data_Path_Argentina.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/Json_Data_Path_Argentina.vi"/>
 			<Item Name="Length_Message_Boatloader.vi" Type="VI" URL="../../../Common/Length_Message_Boatloader.vi"/>
 			<Item Name="Message to Byte Array.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Message to Byte Array.vi"/>
@@ -136,6 +131,7 @@
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Open_Create__Log_File.vi" Type="VI" URL="../../../Common/sub vis/Open_Create__Log_File.vi"/>
 			<Item Name="Open_Create__Log_File_ARG.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Open_Create__Log_File_ARG.vi"/>
 			<Item Name="Parse Data Out.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Parse Data Out.vi"/>
 			<Item Name="Parse ERD Read Expected Data.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Parse ERD Read Expected Data.vi"/>
@@ -149,19 +145,22 @@
 			<Item Name="Search_From_Json.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/Search_From_Json.vi"/>
 			<Item Name="Separate_Bits.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/Separate_Bits.vi"/>
 			<Item Name="Source_Destination.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/Source_Destination.ctl"/>
+			<Item Name="Source_Destination.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/type defs/Source_Destination.ctl"/>
 			<Item Name="String Remove All Spaces.vi" Type="VI" URL="../../../Common/String Manipulation/String Remove All Spaces.vi"/>
 			<Item Name="Table_Result_AT_Test.ctl" Type="VI" URL="../Alladio Tool Suport/Automation Erds/Table_Result_AT_Test.ctl"/>
 			<Item Name="Table_Result_Automation_BootLoader.ctl" Type="VI" URL="../Alladio Tool Suport/Type defs/Table_Result_Automation_BootLoader.ctl"/>
 			<Item Name="Table_Result_Automation_Test.ctl" Type="VI" URL="../Alladio Tool Suport/Type defs/Table_Result_Automation_Test.ctl"/>
+			<Item Name="TimeStamp to String Array.vi" Type="VI" URL="../../../Common/sub vis/TimeStamp to String Array.vi"/>
+			<Item Name="UI Loop Error and Que Setup.vi" Type="VI" URL="../../../Common/sub vis/UI Loop Error and Que Setup.vi"/>
 			<Item Name="Update Message Data.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/subVIs/Update Message Data.vi"/>
 			<Item Name="Utilities.dll" Type="Document" URL="../../../Common/LabVIEW GEA2 Toolkit/source/GEA3 DLL Source/Utilities.dll"/>
 			<Item Name="Value_JSON.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/Value_JSON.vi"/>
 			<Item Name="Version.ctl" Type="VI" URL="../../../Common/type defs/Version.ctl"/>
-			<Item Name="Source_Destination.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/type defs/Source_Destination.ctl"/>
-			<Item Name="HexString to AsciiString.vi" Type="VI" URL="../../../Common/GEA2 Message Conversion/HexString to AsciiString.vi"/>
-			<Item Name="HEUI_Running_FGV.vi" Type="VI" URL="../../../Common/sub vis/HEUI_Running_FGV.vi"/>
-			<Item Name="ERD_Loop_States.ctl" Type="VI" URL="../../../Common/type defs/ERD_Loop_States.ctl"/>
-			<Item Name="ERD Read List All.ctl" Type="VI" URL="../../../Common/type defs/ERD Read List All.ctl"/>
+			<Item Name="VersionConversionData.vi" Type="VI" URL="../../../Common/sub vis/VersionConversionData.vi"/>
+			<Item Name="Wifi_Data.vi" Type="VI" URL="../../../Common/sub vis/Wifi_Data.vi"/>
+			<Item Name="Write _To_CSV_File.vi" Type="VI" URL="../../../Common/sub vis/Write _To_CSV_File.vi"/>
+			<Item Name="Write _To_TXT_File.vi" Type="VI" URL="../../../Common/sub vis/Write _To_TXT_File.vi"/>
+			<Item Name="Write_Header_FGV.vi" Type="VI" URL="../../../Common/sub vis/Write_Header_FGV.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
