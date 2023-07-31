@@ -83,15 +83,15 @@
 			<Item Name="AT_Sequence_Select.vi" Type="VI" URL="../Alladio Tool Suport/Automation Erds/SubVIS/AT_Sequence_Select.vi"/>
 			<Item Name="AT_Sequence_T364.ctl" Type="VI" URL="../Alladio Tool Suport/Automation Erds/Secuences ERDS/AT_Sequence_T364.ctl"/>
 			<Item Name="AT_Sequennce_Select.ctl" Type="VI" URL="../Alladio Tool Suport/Automation Erds/AT_Sequennce_Select.ctl"/>
-			<Item Name="BootloaderVersion.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/BootloaderVersion.ctl"/>
+			<Item Name="BootloaderVersion.ctl" Type="VI" URL="../../../Common/type defs/BootloaderVersion.ctl"/>
 			<Item Name="Build_Header_ARG.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Build_Header_ARG.vi"/>
-			<Item Name="Cont_Send_States.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/Cont_Send_States.ctl"/>
+			<Item Name="Cont_Send_States.ctl" Type="VI" URL="../../../Common/type defs/Cont_Send_States.ctl"/>
 			<Item Name="Convert Hex String to Array.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Convert Hex String to Array.vi"/>
 			<Item Name="Convert Read ERD List to Message.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Convert Read ERD List to Message.vi"/>
 			<Item Name="Convert Write ERD List to Message.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Convert Write ERD List to Message.vi"/>
 			<Item Name="Convert_ERDs_ARG.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Convert_ERDs_ARG.vi"/>
 			<Item Name="Convert_ERDs_Version_ARG.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Convert_ERDs_Version_ARG.vi"/>
-			<Item Name="CSV_File_String_Arrays.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/CSV_File_String_Arrays.ctl"/>
+			<Item Name="CSV_File_String_Arrays.ctl" Type="VI" URL="../../../Common/type defs/CSV_File_String_Arrays.ctl"/>
 			<Item Name="Data In.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/Data In.ctl"/>
 			<Item Name="Data In.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/type defs/Data In.ctl"/>
 			<Item Name="Data Out.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/Data Out.ctl"/>
@@ -100,18 +100,16 @@
 			<Item Name="Data_In_Automation_Bootloader.ctl" Type="VI" URL="../Alladio Tool Suport/Type defs/Data_In_Automation_Bootloader.ctl"/>
 			<Item Name="Encoding.dll" Type="Document" URL="../../../Common/LabVIEW GEA2 Toolkit/source/GEA3 DLL Source/Encoding.dll"/>
 			<Item Name="ERD Read Data Out.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/ERD Read Data Out.ctl"/>
-			<Item Name="ERD Read List All_RT.ctl" Type="VI" URL="../../Refrigerator Tool (LightHouse)/Refrigerator Tool Support/Controls/ERD Read List All_RT.ctl"/>
 			<Item Name="ERD Write Data In.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/ERD Write Data In.ctl"/>
 			<Item Name="ERD_Always_Show_ARG.ctl" Type="VI" URL="../Alladio Tool Suport/Type defs/ERD_Always_Show_ARG.ctl"/>
-			<Item Name="ERD_Data_Loop_Control.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/ERD_Data_Loop_Control.ctl"/>
-			<Item Name="ERD_Loop_Control_Command.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/ERD_Loop_Control_Command.ctl"/>
-			<Item Name="ERD_Loop_States_JL.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/ERD_Loop_States_JL.ctl"/>
-			<Item Name="ERDList.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/ERDList.ctl"/>
-			<Item Name="Error_Command.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/Error_Command.ctl"/>
-			<Item Name="Fault Table Array.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/Fault Table Array.ctl"/>
-			<Item Name="Fault_Table_Info.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/Fault_Table_Info.ctl"/>
+			<Item Name="ERD_Data_Loop_Control.ctl" Type="VI" URL="../../../Common/type defs/ERD_Data_Loop_Control.ctl"/>
+			<Item Name="ERD_Loop_Control_Command.ctl" Type="VI" URL="../../../Common/type defs/ERD_Loop_Control_Command.ctl"/>
+			<Item Name="ERDList.ctl" Type="VI" URL="../../../Common/type defs/ERDList.ctl"/>
+			<Item Name="Error_Command.ctl" Type="VI" URL="../../../Common/type defs/Error_Command.ctl"/>
+			<Item Name="Fault Table Array.ctl" Type="VI" URL="../../../Common/type defs/Fault Table Array.ctl"/>
+			<Item Name="Fault_Table_Info.ctl" Type="VI" URL="../../../Common/type defs/Fault_Table_Info.ctl"/>
 			<Item Name="FileIO_GetCurrentDateTimeString.vi" Type="VI" URL="../../../Common/File IO/FileIO_GetCurrentDateTimeString.vi"/>
-			<Item Name="Flash_Results.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/Flash_Results.ctl"/>
+			<Item Name="Flash_Results.ctl" Type="VI" URL="../../../Common/type defs/Flash_Results.ctl"/>
 			<Item Name="Format Message New to Old.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Format Message New to Old.vi"/>
 			<Item Name="FT_Get_Device_Info.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/FTDI/subVIs/FT_Get_Device_Info.vi"/>
 			<Item Name="FT_Open_Device_By_Index.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/FTDI/subVIs/FT_Open_Device_By_Index.vi"/>
@@ -124,7 +122,7 @@
 			<Item Name="GEA2 Send Message.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/core/GEA2 Send Message.vi"/>
 			<Item Name="GEA2 Stop.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/core/GEA2 Stop.vi"/>
 			<Item Name="GEA2 Write ERD.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/core/GEA2 Write ERD.vi"/>
-			<Item Name="GEA2_Control_Command.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/GEA2_Control_Command.ctl"/>
+			<Item Name="GEA2_Control_Command.ctl" Type="VI" URL="../../../Common/type defs/GEA2_Control_Command.ctl"/>
 			<Item Name="GEA2_Toolkit.lvlib" Type="Library" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/library/GEA2_Toolkit.lvlib"/>
 			<Item Name="GEA2_Toolkit.lvlib" Type="Library" URL="../../../Common/LabVIEW GEA2 Toolkit/library/GEA2_Toolkit.lvlib"/>
 			<Item Name="GEA2MessageFormatter.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/GEA2MessageFormatter.vi"/>
@@ -143,7 +141,7 @@
 			<Item Name="Parse ERD Read Expected Data.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Parse ERD Read Expected Data.vi"/>
 			<Item Name="Parse ERD Read Results.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Parse ERD Read Results.vi"/>
 			<Item Name="Parse ERD Write Expected Data.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Parse ERD Write Expected Data.vi"/>
-			<Item Name="Programming.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/Programming.ctl"/>
+			<Item Name="Programming.ctl" Type="VI" URL="../../../Common/type defs/Programming.ctl"/>
 			<Item Name="Programming.dll" Type="Document" URL="../../../Common/LabVIEW GEA2 Toolkit/source/GEA3 DLL Source/Programming.dll"/>
 			<Item Name="Remove_Spaces.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Remove_Spaces.vi"/>
 			<Item Name="Save_Automation_Test.vi" Type="VI" URL="../Alladio Tool Suport/Subvi&apos;s/Save_Automation_Test.vi"/>
@@ -158,10 +156,12 @@
 			<Item Name="Update Message Data.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/subVIs/Update Message Data.vi"/>
 			<Item Name="Utilities.dll" Type="Document" URL="../../../Common/LabVIEW GEA2 Toolkit/source/GEA3 DLL Source/Utilities.dll"/>
 			<Item Name="Value_JSON.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/Value_JSON.vi"/>
-			<Item Name="Version.ctl" Type="VI" URL="../../Dryer Tool (Commercial 2)/JL Dryer Tool Support/type defs/Version.ctl"/>
+			<Item Name="Version.ctl" Type="VI" URL="../../../Common/type defs/Version.ctl"/>
 			<Item Name="Source_Destination.ctl" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/type defs/Source_Destination.ctl"/>
 			<Item Name="HexString to AsciiString.vi" Type="VI" URL="../../../Common/GEA2 Message Conversion/HexString to AsciiString.vi"/>
 			<Item Name="HEUI_Running_FGV.vi" Type="VI" URL="../../../Common/sub vis/HEUI_Running_FGV.vi"/>
+			<Item Name="ERD_Loop_States.ctl" Type="VI" URL="../../../Common/type defs/ERD_Loop_States.ctl"/>
+			<Item Name="ERD Read List All.ctl" Type="VI" URL="../../../Common/type defs/ERD Read List All.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
