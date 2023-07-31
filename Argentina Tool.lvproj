@@ -60,7 +60,6 @@
 			<Item Name="AT_ERDS.vi" Type="VI" URL="../Alladio Tool Suport/Automation Erds/SubVIS/AT_ERDS.vi"/>
 			<Item Name="AT_Pass_Or_Fail.vi" Type="VI" URL="../Alladio Tool Suport/Automation Erds/SubVIS/AT_Pass_Or_Fail.vi"/>
 			<Item Name="AT_Sequence_Select.vi" Type="VI" URL="../Alladio Tool Suport/Automation Erds/SubVIS/AT_Sequence_Select.vi"/>
-			<Item Name="AT_Sequence_T364.ctl" Type="VI" URL="../Alladio Tool Suport/Automation Erds/Secuences ERDS/AT_Sequence_T364.ctl"/>
 			<Item Name="AT_Sequennce_Select.ctl" Type="VI" URL="../Alladio Tool Suport/Automation Erds/AT_Sequennce_Select.ctl"/>
 			<Item Name="BootloaderVersion.ctl" Type="VI" URL="../../../Common/type defs/BootloaderVersion.ctl"/>
 			<Item Name="Build_ERD_Header_String_Array.vi" Type="VI" URL="../../../Common/sub vis/Build_ERD_Header_String_Array.vi"/>
