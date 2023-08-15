@@ -127,7 +127,7 @@
 			<Item Name="HEUI_Running_FGV.vi" Type="VI" URL="../../../Common/sub vis/HEUI_Running_FGV.vi"/>
 			<Item Name="HexString to AsciiString.vi" Type="VI" URL="../../../Common/GEA2 Message Conversion/HexString to AsciiString.vi"/>
 			<Item Name="Initialize_Control.vi" Type="VI" URL="../../../Common/sub vis/Initialize_Control.vi"/>
-			<Item Name="Json_Data_Path_Argentina.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/Json_Data_Path_Argentina.vi"/>
+			<Item Name="Json_Data_Path.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/Json_Data_Path.vi"/>
 			<Item Name="Length_Message_Boatloader.vi" Type="VI" URL="../../../Common/Length_Message_Boatloader.vi"/>
 			<Item Name="Message to Byte Array.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Message to Byte Array.vi"/>
 			<Item Name="Message Type Conversion.vi" Type="VI" URL="../../../Common/LabVIEW GEA2 Toolkit/GEA3/subVIs/Message Type Conversion.vi"/>
