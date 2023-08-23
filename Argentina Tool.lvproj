@@ -92,6 +92,7 @@
 			<Item Name="ERD_Loop_Control_Command.ctl" Type="VI" URL="../../../Common/type defs/ERD_Loop_Control_Command.ctl"/>
 			<Item Name="ERD_Loop_States.ctl" Type="VI" URL="../../../Common/type defs/ERD_Loop_States.ctl"/>
 			<Item Name="ERD_Read_List_Builder.vi" Type="VI" URL="../../../Common/sub vis/ERD_Read_List_Builder.vi"/>
+			<Item Name="ERDFind.vi" Type="VI" URL="../Alladio Tool Suport/JSON/JSON/ERDFind.vi"/>
 			<Item Name="ERDList.ctl" Type="VI" URL="../../../Common/type defs/ERDList.ctl"/>
 			<Item Name="Error_Clearing.vi" Type="VI" URL="../../../Common/sub vis/Error_Clearing.vi"/>
 			<Item Name="Error_Command.ctl" Type="VI" URL="../../../Common/type defs/Error_Command.ctl"/>
